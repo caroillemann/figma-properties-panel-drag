@@ -1,4 +1,4 @@
-const minWidth = 240;
+const minWidth = 241;
 
 const setupEdge = () => {
   // SETUP DRAGGABLE EDGE

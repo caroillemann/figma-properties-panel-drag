@@ -1,15 +1,17 @@
 :root {
-  --properties-panel-width: 240px;
+  --properties-panel-width: 241px;
 }
 
 div[class^="properties_panel--drillDownContainer"] {
   width: var(--properties-panel-width) !important;
+  max-width: 500px;
 }
 div[class^="properties_panel--scrollContainer"] {
   width: 100% !important;
 }
 div[class^="properties_panel"] div[class^="draggable_modal--positionedContainer"] {
   width: calc(var(--properties-panel-width) - 18px) !important;
+  max-width: calc(500px - 18px) !important;
   right: 8px !important;
   left: auto !important;
 }

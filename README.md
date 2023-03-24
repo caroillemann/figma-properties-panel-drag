@@ -2,13 +2,27 @@
 
 This is a Chrome extension that enables click and drag to change the width of the properties panel in Figma.
 
+## How to install
+
+1. Download the latest package from [the release page](https://github.com/caroillemann/figma-properties-panel-drag/releases). You should download the `figma-properties-panel-drag-chrome-extension.zip`.
+2. Unzip the file.
+3. Open Chrome and go to `chrome://extensions/`.
+4. Enable `Developer mode` in the top right corner.
+5. Click `Load unpacked` and select the unzipped folder. Now the extension should be installed. 💫
+
+## How to use
+
+1. Make sure the extension is installed and enabled.
+2. Open your file on Figma.com in Chrome.
+3. Hover the edge of the properties panel to start dragging. See the demo below for more information.
+
 ## Package files
 
 - `manifest.json` is the manifest file for Chrome extension
 - `src/inject` contains `js` and `css` that will be injected on Figma.com
 - `src/popup` contains the popup page that will be shown when the extension icon is clicked
 
-## Example
+## Demo
 
 ![demo 1][demo1]
 ![demo 2][demo2]
