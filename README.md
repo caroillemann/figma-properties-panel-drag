@@ -13,7 +13,7 @@ This is a Chrome extension that enables click and drag to change the width of th
 ## How to use
 
 1. Make sure the extension is installed and enabled.
-2. Open your file on Figma.com in Chrome.
+2. Open your file on www.figma.com in Chrome.
 3. Hover the edge of the properties panel to start dragging. See the demo below for more information.
 
 ## Package files
