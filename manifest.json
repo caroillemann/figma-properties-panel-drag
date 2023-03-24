@@ -1,6 +1,6 @@
 {
   "name": "Figma Properties Panel Drag",
-  "version": "0.0.0.1",
+  "version": "0.0.0.2",
   "description": "An extension for adjusting the width of the Figma property panel by dragging the edge.",
   "manifest_version": 3,
   "icons": {
