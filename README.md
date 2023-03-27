@@ -6,6 +6,11 @@ This is a Chrome extension that enables click and drag to change the width of th
 
 > 🌼 I'm currently waiting for the extension to be approved in the Chrome Web Store. In the meantime, you can install the extension manually.
 
+### Installing from the Chrome Web Store
+
+1. Go to the [Chrome Web Store page](https://chrome.google.com/webstore/detail/figma-properties-panel-dr/chikifjmjonijmhkkaomnnmhigbclfio) and click `Add to Chrome`.
+2. Now the extension should be installed. 💫
+
 ### Installing manually
 
 1. Download the latest package from [the release page](https://github.com/caroillemann/figma-properties-panel-drag/releases). You should download the `figma-properties-panel-drag-chrome-extension.zip`.
